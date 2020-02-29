@@ -14,7 +14,7 @@ p2p-peer-address = 172.105.19.253:9876
 # plusplusplus	
 p2p-peer-address = p2p.yas.plus:10277
 # huskeynodebp	
-p2p-peer-address = bp.huskeybp.xyz:9876
+p2p-peer-address = yas.huskeybp.xyz:9876
 # tothemoonyas	
 p2p-peer-address = iyas.top:9876
 # zhaoyilun532	
