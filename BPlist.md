@@ -1,7 +1,7 @@
 # BP列表(BP list)
 
 ## 超级节点（Super BP）
-1. huskeynodebp 
+1. [huskeynodebp](https://github.com/zhaoyilun/YAS-MainnetBP/blob/master/BP-huskeynodebp) 
 
   [http://huskeybp.xyz](http://huskeybp.xyz)
 
