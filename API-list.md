@@ -23,3 +23,7 @@ https://api.yasabc.com
 6. yasrepzsocal
 
 http://35.236.97.241:8888
+
+7.plusplusplus
+
+https://rpc.yas.plus
