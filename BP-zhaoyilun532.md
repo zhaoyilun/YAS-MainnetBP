@@ -2,11 +2,11 @@ Url: yas.fljx.top
 
 API: api.fljx.top
 
-P2P-address: yas.fljx.top:9876
+P2P-address: api.yas.wiki:9876
 
-Location: Singapore vultr
+Location: NewYork vultr
 
-VPS Configuration：4 Core, 8G, 160G SSD
+VPS Configuration：2 Core, 4G, 80G SSD
 
 Wechat: xiao2tebie2 (封狼居胥）
 
