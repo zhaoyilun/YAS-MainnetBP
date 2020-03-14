@@ -1,6 +1,6 @@
 Url: yas.fljx.top
 
-API: api.fljx.top
+API: http://api.yas.wiki:7654
 
 P2P-address: api.yas.wiki:9876
 
