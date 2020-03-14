@@ -18,7 +18,7 @@ p2p-peer-address = yas.huskeybp.xyz:9876
 # tothemoonyas	
 p2p-peer-address = iyas.top:9876
 # zhaoyilun532	
-p2p-peer-address = yas.fljx.top:9876
+p2p-peer-address = api.yas.wiki:9876
 # eosmongolia5	
 p2p-peer-address = node.eos.mn:9876
 ```
