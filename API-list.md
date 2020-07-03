@@ -27,3 +27,7 @@ http://35.236.97.241:8888
 7.plusplusplus
 
 https://rpc.yas.plus
+
+8.yasisgoodohh
+
+http://47.104.78.34:8888
