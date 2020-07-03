@@ -21,6 +21,8 @@ p2p-peer-address = iyas.top:9876
 p2p-peer-address = api.yas.wiki:9876
 # eosmongolia5	
 p2p-peer-address = node.eos.mn:9876
+# yasisgoodohh
+p2p-peer-address = 47.104.78.34:9876
 ```
 # Obsolete node：
 #meiya		p2p-peer-address = 172.105.213.233:9876
